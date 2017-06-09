@@ -10,6 +10,6 @@ $(document).ready (function () {
 	});
 	
 	$('#reset').click (function () {
-		$('.fluff').css('background-color', 'blue');
+		$('.fluff').css('background-color', 'grey');
 	});
 });
